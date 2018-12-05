@@ -1,0 +1,44 @@
+vector size: 1
+time(microseconds): 50029
+MFLOPS: 1.99884e-05
+
+vector size: 2
+time(microseconds): 46427
+MFLOPS: 4.30784e-05
+
+vector size: 3
+time(microseconds): 44992
+MFLOPS: 6.66785e-05
+
+vector size: 4
+time(microseconds): 47717
+MFLOPS: 8.38276e-05
+
+vector size: 5
+time(microseconds): 43255
+MFLOPS: 0.000115594
+
+vector size: 6
+time(microseconds): 46765
+MFLOPS: 0.000128301
+
+vector size: 7
+time(microseconds): 44124
+MFLOPS: 0.000158644
+
+vector size: 8
+time(microseconds): 50564
+MFLOPS: 0.000158215
+
+vector size: 9
+time(microseconds): 45932
+MFLOPS: 0.000195942
+
+vector size: 10
+time(microseconds): 47235
+MFLOPS: 0.000211707
+
+vector size: 11
+time(microseconds): 45905
+MFLOPS: 0.000239625
+
